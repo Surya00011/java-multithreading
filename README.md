@@ -1,3 +1,11 @@
-# Java-multithreading
-```Simple multithreaded programs in java```
--[x] ArraySum
+# ✅ Java Multithreading
+
+> Simple multithreaded programs in Java
+
+## 📋 Completed Programs
+
+- [x] Array Sum using Threads
+- [x] Producer-Consumer
+- [x] Thread Synchronization
+- [ ] Deadlock Example
+- [ ] Thread Pool (ExecutorService)

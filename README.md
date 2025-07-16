@@ -1,2 +1,2 @@
-# -[x]Java-multithreading
-``Simple multithreaded programs in java``
+# Java-multithreading
+```Simple multithreaded programs in java```

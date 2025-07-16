@@ -1,4 +1,4 @@
-# ✅ Java Multithreading
+# Java Multithreading
 
 > Simple multithreaded programs in Java
 

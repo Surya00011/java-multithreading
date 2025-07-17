@@ -5,6 +5,7 @@
 ## 📋 Completed Programs
 
 - [x] Array Sum using Threads
+- [x] Array Sum using VirtualThreads
 - [x] Producer-Consumer
 - [x] Thread Synchronization
 - [ ] Deadlock Example

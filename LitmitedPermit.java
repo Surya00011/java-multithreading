@@ -26,4 +26,4 @@ public class Main {
             new Thread(() -> lot.park(carId)).start();
         }
     }
-}  1st soln
+}  

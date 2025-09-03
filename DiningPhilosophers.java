@@ -26,7 +26,6 @@ class Main {
 
 class DiningPhilosophers {
     private final Semaphore maxPhilo = new Semaphore(4);
-    private int philoAteCount = 0;
     public DiningPhilosophers() {
         
     }
